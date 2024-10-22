@@ -1,0 +1,1 @@
+TC-6 passed. The User can select the color of the car

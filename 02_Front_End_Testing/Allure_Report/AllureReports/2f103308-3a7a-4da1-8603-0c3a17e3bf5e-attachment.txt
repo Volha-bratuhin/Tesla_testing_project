@@ -1,0 +1,1 @@
+TC-4-4 passed. The User can't enter invalid values 'Electricity Cost (per kWh)'

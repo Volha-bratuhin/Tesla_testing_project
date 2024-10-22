@@ -1,0 +1,1 @@
+TC-5-5 passed. The User can't enter invalid Down Payment

@@ -1,0 +1,1 @@
+TC-11 passed. The User can select Charging

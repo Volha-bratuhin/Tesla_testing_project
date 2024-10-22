@@ -1,0 +1,1 @@
+TC-10 passed. The User can select Full Self-Driving

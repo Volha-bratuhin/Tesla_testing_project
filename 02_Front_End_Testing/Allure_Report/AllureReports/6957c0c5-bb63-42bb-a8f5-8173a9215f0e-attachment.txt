@@ -1,0 +1,1 @@
+TC-7 passed. The User can select Type of Wheels

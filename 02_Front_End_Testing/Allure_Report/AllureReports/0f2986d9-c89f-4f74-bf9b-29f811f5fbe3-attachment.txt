@@ -1,0 +1,4 @@
+Title is Correct. Current Title is: Electric Cars, Solar & Clean Energy | Tesla
+----Right scroll 4 times completed
+----Left scroll 4 times completed
+TC-1 passed. Page Model Y is correct

@@ -1,0 +1,1 @@
+TC-9 passed. The User can select Interior Color

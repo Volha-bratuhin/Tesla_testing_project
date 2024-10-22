@@ -1,0 +1,1 @@
+TC-2-2 passed. The User can't enter invalid values 'Annual Mileage'

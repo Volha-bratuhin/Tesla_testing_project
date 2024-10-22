@@ -1,0 +1,1 @@
+TC-1-1 passed. The User can't enter invalid values 'Gas Car Efficiency (mpg)'
